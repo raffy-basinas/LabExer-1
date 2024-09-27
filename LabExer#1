@@ -1,0 +1,27 @@
+<html> 
+<head>
+    <style>
+body{
+    background-image: url('sky.jpg');
+}
+    </style>
+<title> ARB</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="Border">
+
+<img src="jam.jpg" alt="Profile" class="rapi">
+<p>Name: Abdul Raffy Basinas</p> 
+<p>Sex: Male</p>
+<p>Birthdate: July 10 2000</p>
+<p>Age: 24</p>
+<p>Address: Muslim Village Dahican Mati City</p>
+<P>Contact #: 09106618689</P>
+
+</div>
+
+
+</body>
+</html
